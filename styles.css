@@ -19,3 +19,10 @@ body {
 .cell {
     border: 1px solid whitesmoke;
 }
+#slider {
+    width: 200px; /* Adjust width if needed */
+}
+
+#reset-button {
+    margin-left: 10px; /* Adjust spacing between slider and button */
+}
