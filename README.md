@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-
-
 # Etch-A-Sketch
 
 ## Description
 
 Etch-A-Sketch is a digital drawing tool that mimics the classic Etch-A-Sketch toy. This web application allows users to create drawings on a grid with adjustable resolution. It features a slider for modifying the grid size and a reset button to clear the drawing area.
-
+ 
 ## Features
 
 - **Dynamic Grid Adjustment**: Change the grid resolution using a slider, which updates the drawing area in real-time.
