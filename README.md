@@ -20,4 +20,4 @@ Etch-A-Sketch is a digital drawing tool that mimics the classic Etch-A-Sketch to
 
 **Open the Project**
 
-   Open https://kommairi.github.io/kommairi/Etch-a-Sketch in your web browser to view and interact with the application.
+   Open: https://kommairi.github.io/Etch-a-Sketch/ in your web browser to view and interact with the application.
